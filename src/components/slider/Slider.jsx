@@ -36,7 +36,8 @@ const Slider = () => {
           <div className="slide-info-wrapper">
             <h1 className="slide-info-title">Book Store</h1>
             <p className="slide-info-desc">
-              It's not just reading. it's living the adventure
+            "Discover the joy of the written
+             word at our Book Store APP."
             </p>
           </div>
         </div>
@@ -58,7 +59,8 @@ const Slider = () => {
           <div className="slide-info-wrapper">
             <h1 className="slide-info-title">Check Out The New Titles</h1>
             <p className="slide-info-desc">
-              We send you the book you want at home
+            "Where the power of knowledge meets 
+             the beauty of storytelling."
             </p>
           </div>
         </div>
